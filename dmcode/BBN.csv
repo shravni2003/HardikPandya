@@ -1,0 +1,11 @@
+Age,Income,Student,Credit rating,Buys_comp
+35,Medium,Yes,Fair ,Yes
+30,High,No,Average,No
+40,Low,Yes,Good,No
+35,Medium,No,Fair ,Yes
+45,Low,No,Fair ,Yes
+35,High,No,Excellent,Yes
+35,Medium,No,Good,No
+25,Low,No,Good,No
+28,High,No,Average,No
+35,Medium,Yes,Average,Yes 
